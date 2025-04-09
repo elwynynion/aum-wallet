@@ -13,7 +13,7 @@ export const Footer = () => {
 							</div>
 
 							<div className="mt-4">
-								<p className="mb-2 font-bold">Download TEAMwallet</p>
+								<p className="mb-2 font-bold">Download AUMwallet</p>
 								<p className="mb-4 text-sm text-gray-600 dark:text-gray-400">
 									The most trusted & secure crypto wallet.
 								</p>
