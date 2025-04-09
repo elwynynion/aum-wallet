@@ -28,7 +28,7 @@ export const HeroSection = () => {
 				</div>
 
 				<div className="flex w-full items-center justify-center lg:w-1/2">
-					<div className="bg-card border-accent flex h-[400px] w-full items-center justify-center rounded-2xl">
+					{/* <div className="bg-card border-accent flex h-[400px] w-full items-center justify-center rounded-2xl">
 						<Image
 							src="/assets/h/1.png"
 							alt="H Asset"
@@ -36,7 +36,7 @@ export const HeroSection = () => {
 							height={1080}
 							className="w-full object-center"
 						/>
-					</div>
+					</div> */}
 				</div>
 			</div>
 		</div>

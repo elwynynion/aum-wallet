@@ -23,7 +23,7 @@ export const CommunitySection = () => {
                             <div className="pt-3">
                                 <h3 className="font-bold text-black dark:text-white">Juan</h3>
                                 <p className="text-sm text-black dark:text-white">
-                                    The easiest way to understand DeFi is to get your hands dirty. The TEAMwallet dApp Browser helped me to use protocols with small amounts and learn what works and what doesn&apos;t work.
+                                    The easiest way to understand DeFi is to get your hands dirty. The AUMwallet dApp Browser helped me to use protocols with small amounts and learn what works and what doesn&apos;t work.
                                 </p>
                             </div>
                         </div>

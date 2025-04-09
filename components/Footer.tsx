@@ -9,7 +9,7 @@ export const Footer = () => {
 					<div className="grid grid-cols-1 gap-8 md:grid-cols-6">
 						<div className="col-span-2">
 							<div className="mb-4">
-								<Image src="/logo.png" alt="T.E.A.M wallet Logo" width={150} height={150} />
+								<Image src="/logo.png" alt="AUM wallet Logo" width={150} height={150} />
 							</div>
 
 							<div className="mt-4">

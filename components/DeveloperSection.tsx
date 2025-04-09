@@ -7,7 +7,7 @@ export const DeveloperSection = () => {
 				<div className="mx-auto max-w-5xl">
 					<div className="flex flex-col items-center md:flex-row">
 						<div className="md:w-2/3">
-							<h2 className="mb-6 text-3xl font-bold md:text-4xl">T.E.A.M building</h2>
+							<h2 className="mb-6 text-3xl font-bold md:text-4xl">AUM building</h2>
 							<p className="mb-8 max-w-xl text-base md:text-lg">
 								We know that working together as a community is better for everyone. Our platform enables
 								blockchain developers to build their dApps and wallets natively and connect with millions of
