@@ -33,8 +33,8 @@ export const metadata: Metadata = {
 	authors: [{ name: "AUM Gold" }],
 	category: "Finance",
 	openGraph: {
-		title: "AUM Gold | Premium Gold-Backed Tokens | $TROY",
-		description: "AUM Gold | Premium Gold-Backed Tokens | $TROY | 1 troy oz gold",
+		title: "AUM Gold [ Assets Under Management ] UAE 🇦🇪",
+		description: "AUM Gold  | $TROY | 1 troy oz gold",
 		url: "https://aum.gold",
 		siteName: "AUM Gold",
 		images: [
@@ -50,8 +50,8 @@ export const metadata: Metadata = {
 	},
 	twitter: {
 		card: "summary_large_image",
-		title: "AUM Gold | Premium Gold-Backed Tokens",
-		description: "AUM Gold | Premium Gold-Backed Tokens | $TROY | 1 troy oz gold",
+		title: "AUM Gold [ Assets Under Management ] UAE 🇦🇪",
+		description: "AUM Gold | $TROY | 1 troy oz gold",
 		images: ["/logo.png"],
 		creator: "@aum_gold",
 		site: "@aum_gold",
@@ -87,7 +87,7 @@ export default function RootLayout({
 							"@context": "https://schema.org",
 							"@type": "Organization",
 							name: "AUM [Assets Under Management] UAE",
-							description: "AUM Gold | Premium Gold-Backed Tokens | $TROY | 1 troy oz gold",
+							description: "AUM Gold | 1 troy oz gold",
 							url: "https://aum.gold",
 							logo: "https://aum.gold/logo.png",
 							sameAs: ["https://twitter.com/aum_gold", "https://linkedin.com/company/aum-gold"],
